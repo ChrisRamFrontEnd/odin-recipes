@@ -1,2 +1,2 @@
 # odin-recipes
-First project on the odin project
+This is a simple website listing several easy to follow recipes.
