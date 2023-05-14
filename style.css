@@ -1,0 +1,13 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.recipe.list{
+    background-color: aqua;
+    width: 180px;
+}
+
+.odin{
+    width: 400px;
+    height: auto;
+}
