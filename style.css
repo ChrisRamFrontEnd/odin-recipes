@@ -10,8 +10,8 @@ h2{
     font-size: 30px;
 }
 .recipe.list{
-    background-color: aqua;
-    width: 180px;
+    background-color: lightgray;
+    width: fit-content;
 }
 
 img{
